@@ -1,16 +1,32 @@
-# Repositório Inicial.
 
-## Alexandre - pf0670
+# ESPORTES TOTAL
 
-### Tarefa para próxima aula:
+Página de exemplo sobre esportes
 
+
+## Authors
+
+- [@alecarlosjesus](https://www.github.com/alecarlosjesus)
+
+
+## 🚀 About Me
+I'm a full stack developer and teacher at FIAP.
+
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
 ```
-1 - Colocar menu nas Páginas 1 e 2.
-2 - Criar seções de conteúdo nas Páginas 1 e 2.
-3 - Criar Rodapés nas Páginas 1 e 2.
-4 - A página index e pagina1 devem permanecer na raiz do projeto.
-5 - A pagina2 deve permanecer na pasta paginas.
-6 - Todos os hiperlinks de ida e volta devem funcionar.
-7 - As paginas 1 e 2 não precisam ter hiperlinks no conteúdo.
-8 - Realizar 1 commit por página alterada.
-9 - Enviar se quiser após tudo pronto via TEAM para o prof o  link do repositório.
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
